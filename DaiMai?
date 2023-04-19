@@ -85,7 +85,7 @@ local args = {
 game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 wait(3)
 local args = {
-    [1] = "เจอกันที่อาวอังคารนะ",
+    [1] = "เจอกันที่ดาวอังคารนะ",
     [2] = "All"
 }
 
